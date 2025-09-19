@@ -9,8 +9,8 @@
 #include <stdio.h>
 
 
-int main()
-{
+int main() {
+
  
   
   printf("1.Introduction to Programming and Problem Solving\n");
@@ -23,5 +23,6 @@ int main()
 
     return 0;
 }
+
 
 
