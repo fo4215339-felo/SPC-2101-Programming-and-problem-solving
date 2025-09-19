@@ -10,23 +10,28 @@
 int main(){
 
 
-double BANK_BALANCE;
+float BANK BALANCE;
 int ID;
-int HEIGHT;
+float HEIGHT;
 
 printf("Enter your ID\n");
 scanf("%d", &ID);
 
 printf("Enter your HEIGHT\n");
-scanf("%d", &HEIGHT);
+scanf("%f", &HEIGHT);
 
 printf("Enter your BANK BALANCE\n");
-scanf("%lf", &BANK_BALANCE);
+scanf("%f", &BANK BALANCE);
+
+   print("ID:%d\n",ID);
+   printf("Height:%f\n",HEIGHT);
+   printf("Bank balance:%f\n",BANK BALANCE) 
 
 
 
 
 return 0;
 }
+
 
 
