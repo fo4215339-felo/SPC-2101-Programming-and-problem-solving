@@ -1,3 +1,10 @@
+/*
+   1. Name :Felix Omondi 
+   2.Reg No.PA106/G/28817/25
+   3.Description;PROGRAM TO PROMT USER TO ENTER DETAILS
+*/
+//main function
+
 #include <stdio.h>
 
 int main(){
@@ -17,12 +24,9 @@ printf("Enter your BANK BALANCE\n");
 scanf("%lf", &BANK_BALANCE);
 
 
-    printf("\nYou entered:\n");
-    printf("\nID : %d\n", ID);
-    printf("HEIGHT : %d cm\n", HEIGHT);
-    printf("BANK BALANCE : ksh%.2lf\n", BANK_BALANCE);
 
 
 return 0;
 }
+
 
